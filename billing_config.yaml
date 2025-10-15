@@ -1,0 +1,5 @@
+billing:
+  default_user: admin
+  default_discount: 10
+  api_key: secret123
+  unused: false
